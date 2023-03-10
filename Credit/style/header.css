@@ -1,0 +1,112 @@
+/* Header */
+
+.header-container{
+    background-color: var(--color);;
+}
+
+#header{
+    display: flex;
+    background: var(--color);
+    color: rgb(255, 255, 255);
+    justify-content: end;
+    height: 36px;
+    font-size: 14px;
+    width: 100%;
+    margin-left: 19%;
+    margin-right: 19%;
+}
+
+#header p{
+    line-height: 10px;
+}
+
+#header span, #icon-0{
+    transform: translateY(5px);
+}
+
+.header-item{
+    margin-right: 24px;
+}
+
+.material-symbols-outlined{
+    margin-right: 7px;
+}
+
+#icon-0{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    transform: translateY(6px);
+    border: rgb(255,255,255) solid 1px;
+}
+
+/* Nav */
+
+#nav{
+    display: flex;
+    font-size: 16px;
+    transform: translateY(7px);
+}
+
+.nav-component-2 p, .nav-component-2 button{
+   padding: 5px;
+   padding-left: 20px;
+   padding-right: 20px;
+}
+
+.nav-component-1{
+    justify-content: start;
+}
+
+.nav-component-1 p{
+    color:  #708090;
+    font-size: 18px;
+ }
+
+.nav-component-1 p:first-of-type{
+    margin-left: 40px;
+    padding-right: 20px ;
+    border-right: 1px solid #EBF0F5;
+ }
+
+ .nav-component-1 p:last-of-type{
+    padding-left: 20px ;
+ }
+
+.nav-component-1 img{
+    transform: translateY(-4px);
+    width: 200px;
+    height: 70px;
+}
+
+.nav-component-2{
+    justify-self: end;
+    margin-left: 24%;
+}
+
+.nav-component-2 span:first-of-type {
+    transform: translateY(15px);
+}
+
+.nav-component-2 p {
+    margin-right: 10px;
+    line-height: 15px;
+}
+
+.nav-component-2 button{
+    margin-right: 25px;
+    height: 40px;
+    padding-left: 36px;
+    transform: translateY(8px);
+    width: 155px;
+}
+
+.nav-component-2 button span{
+   transform: translateX(-26px) !important;
+   margin-top: -5px;
+}
+
+
+
+
+

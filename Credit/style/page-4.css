@@ -1,0 +1,72 @@
+#page-4-container{
+    margin-top: 85px;
+}
+
+#page-4-container div .absolute{
+    top: -30px;
+    left: 66px;
+}
+
+.icon-1{
+    transform: translateY(34px);
+    font-size: 65px !important;
+    color: #219963;
+}
+
+#page-4-container div div p:first-of-type{
+    transform: translate(82px,-42px);
+}
+
+#page-4-container div div h2{
+    transform: translateX(15px);
+    font-size: 30px;
+}
+
+#page-4-container div div button{
+    margin-top: -25px;
+}
+
+.page-4-p{
+    transform: translate(29px,-30px);
+    margin-top: -20px;
+}
+
+#page-4-container div{
+    margin-top: 48px;
+}
+
+.icon-2{
+    color: #219963;
+    transform: translate(20px,-20px);
+    margin: -20px;
+}
+
+.page-4-container-div div{
+    padding-left: 90px;
+    margin-right: 25px;
+}
+
+.page-4-container-div div span{
+    color: #219963;
+    font-size: 60px;
+    transform: translate(-45px,10px);
+}
+
+.page-4-container-div div h3{
+    margin-bottom: 6px;
+    margin-top: -15px;
+    font-size: 20px;
+}
+
+#page-4-container{
+    transform: translateY(-75px);
+    width: 90%;
+}
+
+#page-4-flex-container{
+    padding-bottom: 144px;
+    margin-top: -35px !important;
+    border-bottom: 1px solid #DCE1E9;
+}
+
+

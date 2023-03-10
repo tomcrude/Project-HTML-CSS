@@ -1,0 +1,97 @@
+.main {
+    margin-top: 150px;
+}
+
+#card {
+    width: 499px;
+    height: 315px;
+}
+
+.card-container{
+    justify-self: end;
+}
+
+#box-card-uefa{
+    width: 50%;
+}
+
+#box-card-uefa h1{
+    font-weight: 300;
+    color: #3A4454;
+    font-size: 40px;
+}
+
+#box-card-uefa p{
+    width: 80%;
+    margin-bottom: 40px;
+}
+
+.icon-check{
+    font-size: 36px !important;
+    transform: translateY(10px);
+    color: #007953;
+}
+
+.beneficios{
+    display: grid;
+    grid-template-columns: repeat(4, 25%);
+    grid-gap: 20px;
+    font-weight: 700;
+}
+
+.beneficios h2{
+    width: 80%;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.default-img{
+    height: 420px;
+    margin-left: 60px;
+}
+
+.default-img-container{
+    width: 54%;
+}
+
+.detalles{
+    width: 46%;
+    justify-self: center;
+}
+
+.detalles-container{    
+    margin-top: 100px;
+    background: rgb(232,231,228);
+    background: linear-gradient(90deg, rgba(232,231,228,1) 0%, rgba(255,255,255,1) 100%, rgba(198,195,190,0.71) 118%);
+    border: 1px solid #DCE1E9;
+    border-radius: 10px;
+}
+
+.detalles-container ul{  
+    margin-top: 40px;  
+    font-size: 16px;
+}
+
+.detalles-container ul li{  
+    margin-top: 5%;  
+    font-size: 16.5px;
+    width: 90%;
+}
+
+.detalles-icon{
+    transform: translateY(5px);
+    font-size: 20px !important;
+    margin-right: 8px;
+}
+
+.main h3{  
+    margin-top: 45px;
+    margin-bottom: -10px;
+}
+
+.main-final{
+    border-bottom: 1px solid #EBF0F5;
+    display: block;
+    padding-bottom: 95px;
+    font-size: 15.5px;
+}
